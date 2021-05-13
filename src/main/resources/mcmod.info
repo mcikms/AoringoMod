@@ -1,7 +1,7 @@
 [
 {
-  "modid": "aoringomod",
-  "name": "Aoringo Mod",
+  "modid": "green_apple",
+  "name": "Green Apple",
   "description": "...I'm OK.",
   "version": "${version}",
   "mcversion": "${mcversion}",

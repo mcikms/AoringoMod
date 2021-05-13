@@ -115,3 +115,10 @@ publishing {
         }
     }
 }
+copy {
+    delete {
+        delete "$buildDir/classes/java/main"
+    }
+    into "$buildDir/classes/java/main"
+    from sourceSets.main.resources
+}
