@@ -2,3 +2,10 @@
 
 # Items
 item.cheat_green_apple.name=チート青りんご
+item.speed_upgrade.name=スピードアップグレード
+
+# Tabs
+itemGroup.green_apple_tab=青りんごタブ
+
+#Blocks
+tile.block_green_apple_machine.name=青りんごマシン

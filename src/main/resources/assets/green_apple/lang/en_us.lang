@@ -2,3 +2,10 @@
 
 # Items
 item.cheat_green_apple.name=Green Apple
+item.speed_upgrade.name=Speed Upgrade
+
+# Tabs
+itemGroup.green_apple_tab=Aoringo Tab
+
+#Blocks
+tile.block_green_apple_machine.name=Green Apple Machine
