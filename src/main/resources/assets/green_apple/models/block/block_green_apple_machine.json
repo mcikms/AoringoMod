@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+      "all": "green_apple:blocks/block_green_apple_machine"
+    }
+}

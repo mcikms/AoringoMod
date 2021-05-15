@@ -1,0 +1,16 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+      "textures": {
+        "particle": "green_apple:blocks/block_green_apple_machine"
+      },
+      "model": "green_apple:block_green_apple_machine",
+      "uvlock": false
+    },
+    "variants": {
+      "normal": [{
+      }],
+      "inventory": [{
+      }]
+    }
+}
